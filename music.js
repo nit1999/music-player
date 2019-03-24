@@ -1,6 +1,6 @@
 var songs=["Elektronomia - Sky High [NCS Release].mp3",
-          "KGF-SULTAN.mp3",
-           "Hindi KGF Sultan song WhatsApp status female version.mp3"];
+          "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3",
+           "TonyZ - Road So Far ( Inspired By Alan Walker) [NCN Release].mp3"];
 var songTitle=document.getElementById('songTitle');
 var songSlider=document.getElementById('songSlider');
 var currentTime=document.getElementById('currentTime');
